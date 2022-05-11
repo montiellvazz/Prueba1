@@ -1,5 +1,4 @@
-# Encargado del repo: wilfredo482
-
+# Encargado del repo: Juan Montiel
 <table>
     <tr>
         <td><b>INTEGRANTES</b></td>
@@ -7,12 +6,12 @@
         <td><b>LOCALIZACION</b></td>
     </tr>
     <tr>
-        <td>Wilfredo</td>
+        <td>Juan</td>
         <td>Alfa</td>
         <td>Venezuela</td>
     </tr>
     <tr>
-        <td>Juan</td>
+        <td>Wilfredo</td>
         <td>Bravo</td>
         <td>Venezuela</td>
     </tr>
